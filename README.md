@@ -2,6 +2,8 @@
 
 Device used to control chlorine generation in a salt water pool. The device will connect to the users WiFi and host an HTML page locally. The user will be able to select the interval between each polarity swap. There will also be an option to select the time frame that the device should generate chlorine for the pool
 
+![ChlorGen](Images/ChlorGenIntro.gif)
+
 ## Parts List
 
 _Microcontroller:_ ESP32
